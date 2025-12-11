@@ -53,11 +53,12 @@ You can choose to play again or exit.
 
 ## 📸 Example Gameplay
 Enter your choice (Rock, Paper, Scissor): rock
+
 You choose rock and Computer choose scissor
+
 Rock smashed the Scissor, you won!!
 
 Want to play again (Y/N): y
-
 
 ## 🛠 Tech Used
 
